@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">1page</string>
+    <string name="button_name">Enviar</string>
+    <string name="textView1_name">Coloque seu login: </string>
+    <string name="textView2_name">Coloque sua senha:</string>
+    <string name="editText1_name"> </string>
+    <string name="editText1_hint">Login</string>
+    <string name="editText2_name"> </string>
+    <string name="editText2_hint">Senha</string>
+    <string name="imageView_name">LogoBaja</string>
+</resources>
