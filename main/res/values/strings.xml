@@ -1,11 +1,48 @@
 <resources>
-    <string name="app_name">1page</string>
-    <string name="button_name">Enviar</string>
-    <string name="textView1_name">Coloque seu login: </string>
-    <string name="textView2_name">Coloque sua senha:</string>
-    <string name="editText1_name"> </string>
-    <string name="editText1_hint">Login</string>
-    <string name="editText2_name"> </string>
-    <string name="editText2_hint">Senha</string>
-    <string name="imageView_name">LogoBaja</string>
+    <string name="app_name">EquipePoli</string>
+    <string name="botao1">Ir para a próxima página</string>
+    <string name="poli">Equipe Poli de Baja</string>
+
+
+    <string name="textpag1">A Equipe Poli de Baja, fundada em 2001, tem o objetivo de construir protótipos
+        off-road para competições universitárias, como o Baja SAE. Nesse aplicativo, você poderá acompanhar
+    de perto essa equipe e saber mais sobre nós.</string>
+
+    <string name="textpag2">INFORMAÇÕES SOBRE SUBSISTEMAS</string>
+
+    <string name="dir">DIREÇÃO\nChefe:Guilherme Silva\nFunção: Fazer o carro ter a direção desejada
+        através do volante, projetando e analisando esterçamento das rodas, etc. \n  </string>
+
+    <string name="susp">SUSPENSÃO\nChefe: Victor Melo\nFunção: Garantir que a roda esteja em contato com o
+    solo em todo percurso e filtrar as forlças que entram nas rodas e chegam até o piloto, garantindo
+    dirigibilidade e conforto.</string>
+
+    <string name="freios">FREIOS\nChefe: Julia Furlan\nFunção: Fazer com que o carro freie com eficiência,
+        garantindo a segurança dos envolvidos.</string>
+
+    <string name="design">DESIGN\nChefe: Rafael Miyamoto\nFunção: Responsável pela concepção do carro,
+    pensando em sua estética e ergonomia, de forma a dar uma originalidade a ele e conforto ao piloto.
+    </string>
+
+    <string name="transmissao">TRANSMISSÃO\nChefe: Geovani Rodrigues\nFunção: Responsável pela redução
+        das rotações e aumento do torque do motor através de sistemas de transmissão, para que a energia
+        chegue às rodas de acordo com as demandas da competição.
+</string>
+
+    <string name="motor">MOTOR\nChefe:Henrique Silva\nFunção: Responsável pela manutenção e regulagem
+        do motor, impedindo que este trabalhe perfeitamente durante as competições, garatindo a
+        segurança do piloto e dos envolvidos.</string>
+
+    <string name="cvt">CVT\nChefe: Lucas Domingues\nFunção: </string>
+
+    <string name="eletrico">ELÉTRICO\nChefe: Ricardo Seiki\nFunção: Responsável pela concepção das
+        kill-switches, para segurança do piloto, sensoriamento e aquisição de dados para análise de
+        dados voltada para melhora na perfomance do carro.</string>
+
+    <string name="estrutura">ESTRUTURA\nChefe: Elysnaldo Robson \nFunção: Projetar e realizar uma estrutura para
+        sustentar todos os subsistemas em uma gaiola com um espaço mínimo ao redor do piloto.</string>
+
+    <string name="anest">ANÁLISE ESTRUTURAL\nChefe: Gustavo\nFunção: Responsável pela análise do
+        comportamento das peças quando sofrem os esforços da competição.</string>
+
 </resources>
